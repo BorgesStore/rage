@@ -1,1 +1,2 @@
 VisionXRage.exe filter=lfs diff=lfs merge=lfs -text
+Anydesk.exe filter=lfs diff=lfs merge=lfs -text
